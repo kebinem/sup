@@ -191,7 +191,7 @@ img {
   position: relative;
 }
 
-.info::before {
+/* .info::before {
   content: "";
   position: absolute;
   top: 0;
@@ -201,7 +201,7 @@ img {
   background-color: #262c27;
   transform: translateY(-50%);
   z-index: 1;
-}
+} */
 
 .info__top {
   display: flex;
